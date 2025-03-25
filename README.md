@@ -1,12 +1,9 @@
 ## Hi there 👋
+🌱 I’m a Systems Engineering student at Universidad Distrital Francisco José de Caldas (Bogotá, Colombia).
 
-**devinalzate/devinalzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on backend projects, software development, and microservice architecture.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m student of systems engineering in "Universidad Distrital Francisco Jose de Caldas" (Bogotá, Colombia)
-- 👯 I’m looking to collaborate on backend projects, software development and build of microservice.
-- 📫 How to reach me: devinalzate2005@gmail.com
+📫 You can reach me at: devinalzate2005@gmail.com
 
 
 ## 🌐 Socials:
