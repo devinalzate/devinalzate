@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://ww## 🌐 Socials:
+([🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-alzate-b311bb327/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devinalzate2005@gmail.com)
 w.linkedin.com/in/devin-alzate-b311bb327/]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devinalzate2005@gmail.com) 
